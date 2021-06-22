@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jv-jv/vue-cli-project/issues"
   },
-  "homepage": "https://github.com/jv-jv/vue-cli-project#readme"
+  "homepage": "https://github.com/jv-jv/vue-cli-project#readme",
+  "dependencies": {
+    "vue": "^3.1.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.1.1"
+  }
 }
